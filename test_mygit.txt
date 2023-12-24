@@ -1,1 +1,2 @@
 github push 
+pull했고 그 다음 수정함
