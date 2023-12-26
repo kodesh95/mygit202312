@@ -1,2 +1,1 @@
-github push 
-pull했고 그 다음 수정함
+test_mygit.txt파일 수정
